@@ -15,7 +15,7 @@ sass -v
 ## Usage
 
 ```python
-git clone https://github.com/elina-petrova/Petrova_E_FIP.git
+git clone https://github.com/elina-petrova/Petrova_E_FavThings.git
 ```
 
 
